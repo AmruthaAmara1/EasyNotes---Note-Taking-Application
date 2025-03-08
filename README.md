@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-EasyNotes is a lightweight and user-friendly Windows Forms application built with C#. It provides a simple way to create, edit, save, and delete notes efficiently. The application stores notes in memory using a `DataTable`, allowing users to manage their notes within a single session.
+EasyNotes is a lightweight and user-friendly Windows Forms application built with C#. It provides a simple way to create, edit, save and delete notes efficiently. The application stores notes in memory using a `DataTable`, allowing users to manage their notes within a single session.
 
 ## ✨ Features
 

@@ -1,4 +1,4 @@
-# 📝 EasyNotes - Simple Note Taking Application using C#
+# 📝 Note Taking Application using C#
 
 ## 🚀 Overview
 
